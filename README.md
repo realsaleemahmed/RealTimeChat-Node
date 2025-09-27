@@ -1,1 +1,14 @@
-This is a basic chat app designed for beginners who want to learn how a chat application works. To get started, first run npm install to install all the necessary dependencies. After that, run node index.js to start the project. Once the app is running, you can begin using the chat features. It’s a straightforward setup to help you quickly get the app up and running you can use it by opening the localhost in two different browsers.
+A lightweight real-time chat application built with Node.js and Socket.IO.
+
+This project is designed for beginners who want to understand how a real-time chat system works under the hood.
+
+Getting started:
+
+Clone the repository and run npm install to install dependencies.
+
+Start the server with node index.js.
+
+Open http://localhost:3000 in two different browser windows or tabs to test real-time messaging between clients.
+
+With its straightforward setup, you’ll quickly learn the fundamentals of WebSockets and real-time communication in Node.js.
+
